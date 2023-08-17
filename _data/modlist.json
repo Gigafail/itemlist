@@ -318,12 +318,6 @@
     "version": null
   },
   {
-    "author": "Jecrell and lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.4.1.1"
-  },
-  {
     "author": "AUTOMATIC",
     "name": "Gunplay",
     "steamId": "2034896549",
@@ -1071,19 +1065,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Windows XP",
-    "name": "Trade Ships No Matter What",
-    "steamId": "2296557502",
-    "version": "1.0"
+    "version": "6.3.0.1"
   },
   {
     "author": "Hob Took",
@@ -1096,6 +1078,12 @@
     "name": "Trait Rarity Colors",
     "steamId": "1751884355",
     "version": "1.4.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "Grimm",
@@ -1308,6 +1296,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Taranchuk and Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
@@ -1318,6 +1312,12 @@
     "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Windows XP",
+    "name": "Trade Ships No Matter What",
+    "steamId": "2296557502",
+    "version": "1.0"
   },
   {
     "author": "Murmur",
