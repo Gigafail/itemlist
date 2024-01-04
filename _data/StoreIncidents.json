@@ -101,11 +101,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
@@ -161,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -216,41 +206,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "predators",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -283,7 +238,7 @@
 	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
@@ -297,7 +252,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 400,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -311,28 +266,23 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 15000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 12000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +292,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -363,17 +313,17 @@
 	{
 		"abr": "rescueme",
 		"price": 1200,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 2500,
-		"karmatype": "Good"
+		"price": 2000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removepassion",
@@ -421,15 +371,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 75
 }
